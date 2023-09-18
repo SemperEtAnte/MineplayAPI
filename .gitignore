@@ -1,0 +1,12 @@
+.gradle/
+.github/
+.idea/
+gradlew
+gradlew.bat
+build
+gradle
+*.iws
+*.iml
+*.ipr
+gradle.properties
+.gnupg
